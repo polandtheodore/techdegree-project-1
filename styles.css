@@ -55,6 +55,14 @@ a:hover {
   color: white
 }
 
+.extra-image {
+width: 500px;
+}
+
+.letter {
+  width: 200px;
+}
+
 header {
   text-align: center;
   background: url('images/rsz_background2.jpg') ;
