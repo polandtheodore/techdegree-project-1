@@ -9,7 +9,7 @@ body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   color: #222;
-  background: #f7f5f0;
+  background: #e0bd64;
 }
 /* Link Styles */
 
@@ -18,7 +18,7 @@ a {
   color: #999;
 }
 a:hover {
-  color: #6633ff;
+  color: #410ae4;
 }
 
 /* Section Styles */
@@ -93,20 +93,21 @@ header .profile-image:hover {
 } 
 .location {
   background-color: #222;
-  color: yellow;
+  color: cornsilk;
 }
 .card {
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 500px;
   text-align: left;
-  background: #fff;
-  border-bottom: 4px solid #ccc;
-  border-radius: 6px;
+  background: black;
+  border-bottom: 10px solid black;
+  border-radius: 20px;
   transition: all .5s;
+  color: white;
 }
 .card:hover {
-  border-color: #ff99ff;
+  border-color: burlywood;
 }
 
 ul.skills {
