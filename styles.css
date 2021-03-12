@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/rsz_background.jpg') no-repeat top center ;
+  background: url('images/rsz_background2.jpg') ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -67,9 +67,8 @@ header {
 }
 header .profile-image {
   margin-top: 50px;
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
+  width: 300px;
+  border-radius: 0 45% 0 45%;
   border: 3px solid white;
   transition: all .5s;
 }
